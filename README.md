@@ -62,14 +62,20 @@
 
 
 <!-- Dark Mode -->
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=tokyonight" height="200" />
+<!-- First Row -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=tokyonight" />
+<!-- Second Row -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" />
+</p>
+
+<p align="center">
+  <sub>🕒 Local Timezone: Central European Time (CET / UTC+1) – Turin, Italy 🇮🇹</sub>
 </p>
 
 
