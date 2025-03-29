@@ -95,7 +95,9 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kurtoglusefa&style=flat-square&color=blue" alt="visitor counter"/>
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/eye.svg" width="20" height="20" alt="Eye Icon" />
 </p>
+
 
 ---
 
