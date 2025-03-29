@@ -100,7 +100,7 @@
 ---
 
 <p align="center">
-  Turin, Italy 🇮🇹  
+  Turin, Italy
   <br/>
   Local Timezone: Central European Time (CET / UTC+1)
 </p>
