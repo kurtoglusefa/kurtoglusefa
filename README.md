@@ -10,7 +10,7 @@
 
 ### About Me
 
-- Currently finishing my **Master’s in Software Engineering** @ Polytechnic University of Turin  
+- Currently finishing my **Master of Science in Software Engineering** @ Polytechnic University of Turin  
 - Constantly exploring new tools and frameworks  
 - Love building clean, scalable systems with modern stacks  
 
@@ -63,18 +63,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurtoglusefa&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
----
-
-### Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/kurtoglusefa/vuequizzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kurtoglusefa&repo=vuequizzer&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/kurtoglusefa/routeanalyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kurtoglusefa&repo=routeanalyzer&theme=tokyonight" />
-  </a>
-</p>
 
 ---
 
@@ -84,7 +72,7 @@
 
 ---
 
-### 👁Visitors Counter
+### Visitors Counter
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kurtoglusefa&style=flat-square&color=blue" alt="visitor counter"/>
@@ -93,7 +81,7 @@
 ---
 
 <p align="center">
-  Made with ❤️ in Turin, Italy 🇮🇹  
+  Turin, Italy 🇮🇹  
   <br/>
-  🕒 Local Timezone: Central European Time (CET / UTC+1)
+  Local Timezone: Central European Time (CET / UTC+1)
 </p>
