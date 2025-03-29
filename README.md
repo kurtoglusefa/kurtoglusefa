@@ -61,21 +61,19 @@
 ### GitHub Stats and Contribution Graph
 
 
-<!-- 🌙 Dark Mode -->
-<p align="center">
+<!-- Dark Mode -->
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=tokyonight" height="200" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=tokyonight" />
-</p>
 
-<!-- ☀️ Light Mode (optional preview, comment/uncomment as needed)
+<!-- Light Mode (optional preview, comment/uncomment as needed)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=default" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=default" height="200" />
@@ -89,6 +87,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=default" />
 </p>
 -->
+
 ---
 
 
