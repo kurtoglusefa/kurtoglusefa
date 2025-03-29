@@ -1,17 +1,18 @@
-<h1 align="center">Hi there, I'm Sefa 👋</h1>
+<h1 align="center">Hi there, I'm Sefa</h1>
 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Software+Engineering+student+@+Polito.;Cloud+enthusiast+%7C+Kotlin+%7C+React+%7C+Node.js.;Loves+clean+code+and+modern+frameworks."/>
 </p>
+-->
+
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Currently finishing my **Master’s in Software Engineering** @ Polytechnic of Turin  
-- 💻 Bachelor’s Degree in **Computer Engineering**  
-- ☁️ Passionate about cloud development, clean architecture & DevOps  
-- 🌱 Constantly exploring new tools and frameworks  
+- Currently finishing my **Master’s in Software Engineering** @ Polytechnic University of Turin     
+- Constantly exploring new tools and frameworks  
 
 ---
 
