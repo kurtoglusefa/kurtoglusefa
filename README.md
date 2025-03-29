@@ -60,12 +60,6 @@
 
 ---
 
-### Stats
-
-![Dark Stats](https://github-readme-stats.vercel.app/api?username=kurtoglusefa&show_icons=true&theme=tokyonight) |
-
----
-
 ### Contribution Graph
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurtoglusefa&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
