@@ -60,9 +60,22 @@
 
 ### GitHub Stats and Contribution Graph
 
-![kurtoglusefa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurtoglusefa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtoglusefa&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=kurtoglusefa&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kurtoglusefa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtoglusefa&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kurtoglusefa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+
 ---
 
 
