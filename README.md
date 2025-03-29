@@ -61,18 +61,34 @@
 ### GitHub Stats and Contribution Graph
 
 
+<!-- 🌙 Dark Mode -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=tokyonight" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=tokyonight" />
 </p>
 
+<!-- ☀️ Light Mode (optional preview, comment/uncomment as needed)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=default" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=default" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=default&hide_border=false&border=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=default" />
+</p>
+-->
 ---
 
 
