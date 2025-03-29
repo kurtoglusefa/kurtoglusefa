@@ -60,11 +60,9 @@
 
 ---
 
-### Theme Toggle Preview
+### Stats
 
-| Light | Dark |
-|:--:|:--:|
-| ![Light Stats](https://github-readme-stats.vercel.app/api?username=kurtoglusefa&show_icons=true&theme=default) | ![Dark Stats](https://github-readme-stats.vercel.app/api?username=kurtoglusefa&show_icons=true&theme=tokyonight) |
+![Dark Stats](https://github-readme-stats.vercel.app/api?username=kurtoglusefa&show_icons=true&theme=tokyonight) |
 
 ---
 
@@ -83,6 +81,9 @@
   </a>
   <a href="https://www.instagram.com/itinitaly/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/idkurtoglusefa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="40" height="40" alt="LinkedIn" />
   </a>
 </p>
 
