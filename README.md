@@ -62,19 +62,16 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kurtoglusefa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight" alt="GitHub Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtoglusefa&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kurtoglusefa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" alt="GitHub Streak" />
 </p>
-
 
 ---
 
