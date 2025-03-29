@@ -58,19 +58,13 @@
 
 ---
 
-### GitHub Stats
+### GitHub Stats and Contribution Graph
 
 ![kurtoglusefa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurtoglusefa&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtoglusefa&layout=compact&theme=tokyonight)
-
----
-
-### Contribution Graph
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurtoglusefa&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
 ---
+
 
 ### Connect With Me
 
@@ -91,10 +85,10 @@
 
 ---
 
-### Visitors Counter
+### Visitors
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/eye.svg" width="20" height="20" alt="Eye Icon" />
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/eye.svg" width="20" height="20" alt="Eye Icon" style="filter: invert(30%) sepia(100%) saturate(500%) hue-rotate(180deg);" />
   <img src="https://komarev.com/ghpvc/?username=kurtoglusefa&style=flat&color=blue&label=" alt="Visitor count" />
 </p>
 
