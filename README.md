@@ -10,9 +10,8 @@
 
 ### About Me
 
-- Currently finishing my **Master of Science in Software Engineering** at Polytechnic University of Turin  
-- Constantly exploring new tools and frameworks  
-- Love building clean, scalable systems with modern stacks  
+- Currently finishing my **Master of Science in Software Engineering** at Polytechnic University of Turin
+- Constantly exploring new tools and frameworks
 
 ---
 
@@ -67,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" />
 </p>
 
 <p align="center">
