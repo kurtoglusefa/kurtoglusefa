@@ -66,9 +66,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kurtoglusefa&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=6" />
 </p>
-
 
 
 <p align="center">
