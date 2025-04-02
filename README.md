@@ -123,13 +123,3 @@
   <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/eye.svg" width="20" height="20" alt="Eye Icon" style="filter: invert(30%) sepia(100%) saturate(500%) hue-rotate(180deg);" />
   <img src="https://komarev.com/ghpvc/?username=kurtoglusefa&style=flat&color=blue&label=" alt="Visitor count" />
 </p>
-
-
-
----
-
-<p align="center">
-  Turin, Italy
-  <br/>
-  Local Timezone: Central European Time (CET / UTC+1)
-</p>
