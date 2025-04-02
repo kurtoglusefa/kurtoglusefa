@@ -58,9 +58,40 @@
 ---
 
 ### GitHub Stats and Contribution Graph
+<!-- Profile Summary -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight&border=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=default&border=000000">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" alt="GitHub Profile Summary" />
+  </picture>
+</p>
 
+<!-- Streak -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=default&hide_border=false&border=000000">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" height="200" alt="GitHub Streak" />
+  </picture>
+</p>
 
+<!-- Repo Language + Productive Time -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=tokyonight&border=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=default&border=000000">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" alt="Repo Language Breakdown" />
+  </picture>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=tokyonight&border=FFFFFF&utcOffset=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=default&border=000000&utcOffset=1">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=tokyonight&border=FFFFFF&utcOffset=1" height="200" alt="Productive Time" />
+  </picture>
+</p>
+
+<!--
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" />
 </p>
@@ -77,7 +108,7 @@
 </p>
 
 
-<!-- Light Mode (optional preview, comment/uncomment as needed)
+ Light Mode (optional preview, comment/uncomment as needed)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=default" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=default" height="200" />
