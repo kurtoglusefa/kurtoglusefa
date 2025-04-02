@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" />
 </p>
 
 
