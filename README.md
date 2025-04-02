@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kurtoglusefa&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" />
 </p>
 
 
