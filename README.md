@@ -8,7 +8,7 @@
 
 ### About Me
 
-- Currently finishing my **Master of Science in Software Engineering** at Polytechnic University of Turin
+- Currently finishing my **Master of Science in Computer Engineering** at Polytechnic University of Turin
 - Constantly exploring new tools and frameworks
 
 ---
