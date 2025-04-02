@@ -66,8 +66,9 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" height="200" />
 </p>
+
 
 
 <p align="center">
