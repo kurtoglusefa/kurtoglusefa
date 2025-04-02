@@ -6,8 +6,6 @@
 </p>
 -->
 
-
-
 ### About Me
 
 - Currently finishing my **Master of Science in Software Engineering** at Polytechnic University of Turin
@@ -17,7 +15,8 @@
 
 ### Tech Stack
 
-#### Languages  
+#### Languages
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" />
@@ -27,8 +26,8 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
 </p>
 
+#### Web & Frameworks
 
-#### Web & Frameworks  
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
@@ -43,9 +42,8 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
 </p>
 
+#### Tools & IDEs
 
-
-#### Tools & IDEs  
 <p align="left">
    <!-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/intellij-colored.svg" width="40" height="40" alt="IntelliJ IDEA" /> -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code" />
@@ -58,40 +56,7 @@
 ---
 
 ### GitHub Stats and Contribution Graph
-<!-- Profile Summary -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight&border=FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=default&border=000000">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" alt="GitHub Profile Summary" />
-  </picture>
-</p>
 
-<!-- Streak -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=default&hide_border=false&border=000000">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" height="200" alt="GitHub Streak" />
-  </picture>
-</p>
-
-<!-- Repo Language + Productive Time -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=tokyonight&border=FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=default&border=000000">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" alt="Repo Language Breakdown" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=tokyonight&border=FFFFFF&utcOffset=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=default&border=000000&utcOffset=1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kurtoglusefa&theme=tokyonight&border=FFFFFF&utcOffset=1" height="200" alt="Productive Time" />
-  </picture>
-</p>
-
-<!--
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" />
 </p>
@@ -107,7 +72,7 @@
 
 </p>
 
-
+<!--
  Light Mode (optional preview, comment/uncomment as needed)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=default" height="200" />
@@ -124,7 +89,6 @@
 -->
 
 ---
-
 
 ### Connect With Me
 
@@ -151,8 +115,6 @@
   <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/eye.svg" width="20" height="20" alt="Eye Icon" style="filter: invert(30%) sepia(100%) saturate(500%) hue-rotate(180deg);" />
   <img src="https://komarev.com/ghpvc/?username=kurtoglusefa&style=flat&color=blue&label=" alt="Visitor count" />
 </p>
-
-
 
 
 
