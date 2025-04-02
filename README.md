@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://github.com/kurtoglusefa">
-    <img src="https://github-readme-stats.vercel.app/api?username=kurtoglusefa&show_icons=true&count_private=true&theme=tokyonight" alt="kurtoglusefa's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kurtoglusefa&show_icons=true&count_private=true&theme=tokyonight&border=FFFFFF" height="200" alt="kurtoglusefa's GitHub stats" />
   </a>
 </p>
 
