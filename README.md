@@ -37,7 +37,6 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="Typescript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue.js" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" />
-  <!-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="40" height="40" alt="Spring Boot" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
@@ -51,8 +50,6 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
-  <img src="https://desktop.githubusercontent.com/github-desktop-app-icon.png" width="40" height="40" alt="GitHub Desktop" />
-  <!-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="40" height="40" alt="Postman" />-->
 </p>
 
 
@@ -64,11 +61,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" />
 </p>
 
-<!--
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" height="200" />
 </p>
--->
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" />
