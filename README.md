@@ -66,8 +66,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" />
+  <img src="https://streak-stats.demolab.com/?user=kurtoglusefa&theme=tokyonight_duo&hide_border=false&border=FFFFFF" alt="GitHub Streak Stats" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurtoglusefa&theme=tokyonight&border=FFFFFF" height="200" />
