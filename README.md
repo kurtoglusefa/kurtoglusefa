@@ -8,9 +8,9 @@
 
 ### About Me
 
-Currently trying to graduate Master of Science in Computer Engineering at Polytechnic University of Turin
-Working as a Software Engineer for a Full-Stack role
-Constantly exploring new tools and frameworks
+- Currently trying to graduate Master of Science in Computer Engineering at Polytechnic University of Turin
+- Working as a Software Engineer for a Full-Stack role
+- Constantly exploring new tools and frameworks
 
 ---
 
